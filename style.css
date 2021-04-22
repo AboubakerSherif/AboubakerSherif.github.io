@@ -72,13 +72,13 @@ header a {
 /* Add everything below here */
 
 #Home {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://github.com/AboubakerSherif/AboubakerSherif.github.io/blob/main/ATL.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://raw.githubusercontent.com/AboubakerSherif/AboubakerSherif.github.io/main/ATL.jpg');
 }
 
 #about {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://github.com/AboubakerSherif/AboubakerSherif.github.io/blob/main/GSU.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://raw.githubusercontent.com/AboubakerSherif/AboubakerSherif.github.io/main/GSU.jpg');
 }
 
 #contact {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://github.com/AboubakerSherif/AboubakerSherif.github.io/blob/main/CODE%20BG.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://raw.githubusercontent.com/AboubakerSherif/AboubakerSherif.github.io/main/CODE%20BG.jpg');
 }
