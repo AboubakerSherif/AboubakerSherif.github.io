@@ -75,10 +75,18 @@ header a {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://raw.githubusercontent.com/AboubakerSherif/AboubakerSherif.github.io/main/ATL.jpg');
 }
 
-#about {
+#About {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://raw.githubusercontent.com/AboubakerSherif/AboubakerSherif.github.io/main/ME.jpg');
+}
+
+#Skills {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://raw.githubusercontent.com/AboubakerSherif/AboubakerSherif.github.io/main/GSU.jpg');
 }
 
-#contact {
+#Portfolio {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://raw.githubusercontent.com/AboubakerSherif/AboubakerSherif.github.io/main/CODE%20BG.jpg');
+}
+
+#Contact  {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://raw.githubusercontent.com/AboubakerSherif/AboubakerSherif.github.io/main/CONTACT.jpg');
 }
